@@ -19,7 +19,7 @@ What I learned in this:
 ![lco](./screenshots/Web%20capture_6-3-2023_13242_127.0.0.1.jpeg)
 ![lco](./screenshots/Web%20capture_6-3-2023_132416_127.0.0.1.jpeg)
 
-## [Live Project Link](https://profound-duckanoo-aaee2a.netlify.app)
+## [Live Project Link](https://accordion-react-project-theta.vercel.app/)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
